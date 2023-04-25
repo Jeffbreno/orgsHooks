@@ -5,6 +5,6 @@ export const carregaProdutores = () => {
     return produtores;
 }
 
-export const caregaTopo = () => {
+export const carregaTopo = () => {
     return topo;
 }
