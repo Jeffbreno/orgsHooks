@@ -1,6 +1,6 @@
 import React from 'react';
 import {SafeAreaView} from 'react-native';
-import Home from './src/view/home';
+import Home from './src/view/Home';
 
 function App() {
   return (
